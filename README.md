@@ -47,16 +47,6 @@ dockerlabs-machines/
 ### Hard
 <!-- Add machines here -->
 
-## Cómo contribuir
-
-1. Agregar el writeup en la carpeta correspondiente a su dificultad
-2. Usar el [formato estándar](./formato.md)
-3. Hacer pull request con los cambios
-
-## Formato de Writeup
-
-Ver [formato.md](./formato.md) para el formato estándar de writeups.
-
 ---
 
 **Más información:** [dockerlabs.ar](https://dockerlabs.ar)

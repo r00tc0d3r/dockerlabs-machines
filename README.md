@@ -36,6 +36,7 @@ dockerlabs-machines/
 - ✅ borazuwarahctf
 - ✅ vacaciones
 - ✅ tproot
+- ✅ obsession
 <!-- Add machines here -->
 
 ### Easy
